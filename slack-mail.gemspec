@@ -23,5 +23,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "slack-notifier"
   spec.add_dependency "rails", "~> 4.2" # For ActiveJob
-  spec.add_dependency "virus"
+  spec.add_dependency "virtus"
 end
