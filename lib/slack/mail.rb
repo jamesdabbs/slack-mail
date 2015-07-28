@@ -1,4 +1,5 @@
 require "slack-notifier"
+require "virtus"
 
 require "slack/mail/config"
 require "slack/mail/delivery"
